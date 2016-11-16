@@ -1,8 +1,8 @@
 var questions = [
-    question1 = [
-        question = "Wie werden die Erhöhungen und wie die Vertiefungen bei einem Optischen Speicher genant? @Vertiefung&&Erhöhung@",
-        rightAnswer ="Pit&&Land",
-    ],
+    {
+        "question": "Wie werden die Erhöhungen und wie die Vertiefungen bei einem Optischen Speicher genant? @Vertiefung&&Erhöhung@",
+        "answer": "Pit&&Land"
+    },
     question2 = [
         question = "Wofür steht CD-R? @*@",
         rightAnswer ="Compact Disc Recordable",
